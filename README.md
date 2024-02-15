@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Marcos Henrique 👋🏻
 
-[![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-henrique-53b813235/)
+[![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-henrique-martins-53b813235/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marcoshenriq__/)
 
 ![Marcos Henrique GitHub stats](https://github-readme-stats.vercel.app/api?username=marcos-henrique2&show_icons=true&theme=radical)
